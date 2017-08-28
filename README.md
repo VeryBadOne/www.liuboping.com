@@ -12,7 +12,7 @@
 ### 方法2 保存捐助链接到浏览器收藏夹
 最好的捐助办法，浏览器收藏京东淘宝的地址，然后修改地址为下面的捐助地址，通过捐助地址打开京东淘宝进行网购。   
 - 京东`https://union-click.jd.com/jdc?d=AAfgEC`
-- 淘宝`https://ai.taobao.com/search/index.htm?fcat=3306&key=计算机 网络&pid=mm_48510912_36052737_128472059`
+- 淘宝`https://ai.taobao.com/search/index.htm?pid=mm_48510912_36052737_128472059&fcat=3306&key=计算机网络`
 
 
 ## 速度怎么样？
