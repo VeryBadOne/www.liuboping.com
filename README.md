@@ -37,3 +37,11 @@ ssr://cHViLmxpdWJvcGluZy5jb206NDQzOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLj
 ```
 ## v2ray配置文件
 [https://github.com/lbp0200/www.liuboping.com/raw/master/v2ray_http.json](https://github.com/lbp0200/www.liuboping.com/raw/master/v2ray_http.json)
+
+## 使用协议
+正常的网页浏览、看视频等都是允许的。   
+其他的使用方式，如果你不确定是否会影响其他人的正常使用，请使用Tor，设置Tor通过本服务的socks5代理即可，同时保护个人隐私安全。
+```
+#编辑torrc文件，Linux系统在/etc/tor/torrc
+Socks5Proxy 127.0.0.1:1080 #客户端创建的socks5地址
+```
