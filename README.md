@@ -45,3 +45,6 @@ ssr://cHViLmxpdWJvcGluZy5jb206NDQzOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLj
 #编辑torrc文件，Linux系统在/etc/tor/torrc
 Socks5Proxy 127.0.0.1:1080 #客户端创建的socks5地址
 ```
+
+## 感谢
+更新日期`2017年08月28日 星期一`，本服务自上线2天以来，收到了15个star，捐助链接的点击数超过200次。
