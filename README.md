@@ -38,6 +38,11 @@ ssr://cHViLmxpdWJvcGluZy5jb206NDQzOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLj
 ## v2ray配置文件
 [https://github.com/lbp0200/www.liuboping.com/raw/master/v2ray_http.json](https://github.com/lbp0200/www.liuboping.com/raw/master/v2ray_http.json)
 
+## BUG
+- 由于服务器地址全部使用`pub.liuboping.com`域名，ss/ssr手机端选择`UDP转发`时，会导致无法连接。  
+解决：ping出`pub.liuboping.com`对应的IP地址，填入服务器地址，就可以使用`UDP转发`了。   
+PS：由于直接把服务器IP暴露在网页容易招致攻击，且计划未来更换更大的服务器，用域名可以无修改地切换到新服务器，请见谅。
+
 ## 使用协议
 正常的网页浏览、看视频等都是允许的。   
 其他的使用方式，如果你不确定是否会影响其他人的正常使用，请使用Tor，设置Tor通过本服务的socks5代理即可，同时保护个人隐私安全。
