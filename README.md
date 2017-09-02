@@ -6,13 +6,13 @@
 
 ## 捐助方式
 ### 方法1 点击链接（只能通过github点击，不然可能被京东淘宝判定无效）
-- ### [淘宝链接](https://ai.taobao.com/search/index.htm?fcat=3306&key=计算机网络&pid=mm_48510912_36052737_128472059)
+- ### [淘宝链接](https://ai.taobao.com/search/index.htm?pid=mm_48510912_36112080_128622796&key=%E5%9B%BE%E4%B9%A6)
 - ### [京东链接](https://union-click.jd.com/jdc?d=HmJ6Nd)
 
 ### 方法2 保存捐助链接到浏览器收藏夹
 最好的捐助办法，浏览器收藏京东淘宝的地址，然后修改地址为下面的捐助地址，通过捐助地址打开京东淘宝进行网购。   
 - 京东`https://union-click.jd.com/jdc?d=AAfgEC`
-- 淘宝`https://ai.taobao.com/search/index.htm?pid=mm_48510912_36052737_128472059&fcat=3306&key=计算机网络`
+- 淘宝`https://ai.taobao.com/search/index.htm?pid=mm_48510912_36112080_128622796&key=%E5%9B%BE%E4%B9%A6`
 
 
 ## 速度怎么样？
