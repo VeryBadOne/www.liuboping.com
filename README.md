@@ -6,13 +6,13 @@
 
 ## 捐助方式
 ### 方法1 点击链接（只能通过github点击，不然可能被京东淘宝判定无效）
-- ### [淘宝链接](https://ai.taobao.com/search/index.htm?pid=mm_48510912_36112080_128622796&key=%E5%9B%BE%E4%B9%A6)
+- ### [淘宝链接](https://s.click.taobao.com/t?e=m%3D2%26s%3DrD17tX2OlLscQipKwQzePCperVdZeJviLKpWJ%2Bin0XJRAdhuF14FMTXuFxJ1UAT979%2FTFaMDK6SV207OvaxmSMdMChil5%2FCHpr2GbVvPha4TKPBK2jb5mrMkz8kGNV%2Ft7DkHVOQMX2vcHtRpEUy6RCkOjZRAjodwnaYpFBIfC%2F3EwuR4BVrhRq9g8zRJxS%2FkPaXg%2FKwnH88%3D)
 - ### [京东链接](https://union-click.jd.com/jdc?d=HmJ6Nd)
 
 ### 方法2 保存捐助链接到浏览器收藏夹
 最好的捐助办法，浏览器收藏京东淘宝的地址，然后修改地址为下面的捐助地址，通过捐助地址打开京东淘宝进行网购。   
 - 京东`https://union-click.jd.com/jdc?d=AAfgEC`
-- 淘宝`https://ai.taobao.com/search/index.htm?pid=mm_48510912_36112080_128622796&key=%E5%9B%BE%E4%B9%A6`
+- 淘宝`https://s.click.taobao.com/t?e=m%3D2%26s%3DxvwCdEy2CkccQipKwQzePCperVdZeJviLKpWJ%2Bin0XJRAdhuF14FMSFFC1cB7OI%2B8sviUM61dt2V207OvaxmSIwWFxeDE30OZ6SZFCn9AfBR%2FNVhJBXZ%2BLMkz8kGNV%2Ft7DkHVOQMX2vcHtRpEUy6RCkOjZRAjodwnaYpFBIfC%2F3EwuR4BVrhRq9g8zRJxS%2FkPaXg%2FKwnH88%3D`
 
 
 ## 速度怎么样？
